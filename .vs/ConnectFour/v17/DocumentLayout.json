@@ -1,0 +1,179 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cedie\\source\\repos\\ConnectFour\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4CC2034-FCA4-4F34-B281-385CEA963EEF}|ConnectFour\\ConnectFour.vcxproj|C:\\Users\\cedie\\source\\repos\\ConnectFour\\ConnectFour\\GameChecker.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C4CC2034-FCA4-4F34-B281-385CEA963EEF}|ConnectFour\\ConnectFour.vcxproj|solutionrelative:ConnectFour\\GameChecker.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4CC2034-FCA4-4F34-B281-385CEA963EEF}|ConnectFour\\ConnectFour.vcxproj|C:\\Users\\cedie\\source\\repos\\ConnectFour\\ConnectFour\\ConnectFour.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C4CC2034-FCA4-4F34-B281-385CEA963EEF}|ConnectFour\\ConnectFour.vcxproj|solutionrelative:ConnectFour\\ConnectFour.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4CC2034-FCA4-4F34-B281-385CEA963EEF}|ConnectFour\\ConnectFour.vcxproj|C:\\Users\\cedie\\source\\repos\\ConnectFour\\ConnectFour\\GameChecker.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C4CC2034-FCA4-4F34-B281-385CEA963EEF}|ConnectFour\\ConnectFour.vcxproj|solutionrelative:ConnectFour\\GameChecker.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4CC2034-FCA4-4F34-B281-385CEA963EEF}|ConnectFour\\ConnectFour.vcxproj|C:\\Users\\cedie\\source\\repos\\ConnectFour\\ConnectFour\\ComputerPlayer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C4CC2034-FCA4-4F34-B281-385CEA963EEF}|ConnectFour\\ConnectFour.vcxproj|solutionrelative:ConnectFour\\ComputerPlayer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4CC2034-FCA4-4F34-B281-385CEA963EEF}|ConnectFour\\ConnectFour.vcxproj|C:\\Users\\cedie\\source\\repos\\ConnectFour\\ConnectFour\\ComputerPlayer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C4CC2034-FCA4-4F34-B281-385CEA963EEF}|ConnectFour\\ConnectFour.vcxproj|solutionrelative:ConnectFour\\ComputerPlayer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4CC2034-FCA4-4F34-B281-385CEA963EEF}|ConnectFour\\ConnectFour.vcxproj|C:\\Users\\cedie\\source\\repos\\ConnectFour\\ConnectFour\\MainGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C4CC2034-FCA4-4F34-B281-385CEA963EEF}|ConnectFour\\ConnectFour.vcxproj|solutionrelative:ConnectFour\\MainGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4CC2034-FCA4-4F34-B281-385CEA963EEF}|ConnectFour\\ConnectFour.vcxproj|C:\\Users\\cedie\\source\\repos\\ConnectFour\\ConnectFour\\Board.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C4CC2034-FCA4-4F34-B281-385CEA963EEF}|ConnectFour\\ConnectFour.vcxproj|solutionrelative:ConnectFour\\Board.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4CC2034-FCA4-4F34-B281-385CEA963EEF}|ConnectFour\\ConnectFour.vcxproj|C:\\Users\\cedie\\source\\repos\\ConnectFour\\ConnectFour\\Board.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C4CC2034-FCA4-4F34-B281-385CEA963EEF}|ConnectFour\\ConnectFour.vcxproj|solutionrelative:ConnectFour\\Board.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4CC2034-FCA4-4F34-B281-385CEA963EEF}|ConnectFour\\ConnectFour.vcxproj|C:\\Users\\cedie\\source\\repos\\ConnectFour\\ConnectFour\\ConnectFour.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C4CC2034-FCA4-4F34-B281-385CEA963EEF}|ConnectFour\\ConnectFour.vcxproj|solutionrelative:ConnectFour\\ConnectFour.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Board.h",
+              "DocumentMoniker": "C:\\Users\\cedie\\source\\repos\\ConnectFour\\ConnectFour\\Board.h",
+              "RelativeDocumentMoniker": "ConnectFour\\Board.h",
+              "ToolTip": "C:\\Users\\cedie\\source\\repos\\ConnectFour\\ConnectFour\\Board.h",
+              "RelativeToolTip": "ConnectFour\\Board.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-16T20:38:09.603Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Board.cpp",
+              "DocumentMoniker": "C:\\Users\\cedie\\source\\repos\\ConnectFour\\ConnectFour\\Board.cpp",
+              "RelativeDocumentMoniker": "ConnectFour\\Board.cpp",
+              "ToolTip": "C:\\Users\\cedie\\source\\repos\\ConnectFour\\ConnectFour\\Board.cpp",
+              "RelativeToolTip": "ConnectFour\\Board.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAtwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-17T05:14:20.105Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ComputerPlayer.cpp",
+              "DocumentMoniker": "C:\\Users\\cedie\\source\\repos\\ConnectFour\\ConnectFour\\ComputerPlayer.cpp",
+              "RelativeDocumentMoniker": "ConnectFour\\ComputerPlayer.cpp",
+              "ToolTip": "C:\\Users\\cedie\\source\\repos\\ConnectFour\\ConnectFour\\ComputerPlayer.cpp",
+              "RelativeToolTip": "ConnectFour\\ComputerPlayer.cpp",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAAAHsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-17T14:37:40.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ComputerPlayer.h",
+              "DocumentMoniker": "C:\\Users\\cedie\\source\\repos\\ConnectFour\\ConnectFour\\ComputerPlayer.h",
+              "RelativeDocumentMoniker": "ConnectFour\\ComputerPlayer.h",
+              "ToolTip": "C:\\Users\\cedie\\source\\repos\\ConnectFour\\ConnectFour\\ComputerPlayer.h",
+              "RelativeToolTip": "ConnectFour\\ComputerPlayer.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-17T14:14:21.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameChecker.cpp",
+              "DocumentMoniker": "C:\\Users\\cedie\\source\\repos\\ConnectFour\\ConnectFour\\GameChecker.cpp",
+              "RelativeDocumentMoniker": "ConnectFour\\GameChecker.cpp",
+              "ToolTip": "C:\\Users\\cedie\\source\\repos\\ConnectFour\\ConnectFour\\GameChecker.cpp",
+              "RelativeToolTip": "ConnectFour\\GameChecker.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAC8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-17T06:59:09.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameChecker.h",
+              "DocumentMoniker": "C:\\Users\\cedie\\source\\repos\\ConnectFour\\ConnectFour\\GameChecker.h",
+              "RelativeDocumentMoniker": "ConnectFour\\GameChecker.h",
+              "ToolTip": "C:\\Users\\cedie\\source\\repos\\ConnectFour\\ConnectFour\\GameChecker.h",
+              "RelativeToolTip": "ConnectFour\\GameChecker.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-17T06:46:52.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConnectFour.h",
+              "DocumentMoniker": "C:\\Users\\cedie\\source\\repos\\ConnectFour\\ConnectFour\\ConnectFour.h",
+              "RelativeDocumentMoniker": "ConnectFour\\ConnectFour.h",
+              "ToolTip": "C:\\Users\\cedie\\source\\repos\\ConnectFour\\ConnectFour\\ConnectFour.h",
+              "RelativeToolTip": "ConnectFour\\ConnectFour.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-17T06:44:56.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainGame.cpp",
+              "DocumentMoniker": "C:\\Users\\cedie\\source\\repos\\ConnectFour\\ConnectFour\\MainGame.cpp",
+              "RelativeDocumentMoniker": "ConnectFour\\MainGame.cpp",
+              "ToolTip": "C:\\Users\\cedie\\source\\repos\\ConnectFour\\ConnectFour\\MainGame.cpp",
+              "RelativeToolTip": "ConnectFour\\MainGame.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-17T06:44:41.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ConnectFour.cpp",
+              "DocumentMoniker": "C:\\Users\\cedie\\source\\repos\\ConnectFour\\ConnectFour\\ConnectFour.cpp",
+              "RelativeDocumentMoniker": "ConnectFour\\ConnectFour.cpp",
+              "ToolTip": "C:\\Users\\cedie\\source\\repos\\ConnectFour\\ConnectFour\\ConnectFour.cpp",
+              "RelativeToolTip": "ConnectFour\\ConnectFour.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-16T20:36:54.474Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
